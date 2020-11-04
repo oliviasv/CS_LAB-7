@@ -34,4 +34,4 @@ This project is finished.
 ## Contributors:
 Savițchi Olivia - FAF-181
 
-Peticî Marina - FAF -181
+Peticî Marina - FAF-181
