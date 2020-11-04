@@ -24,9 +24,9 @@ This is laboratory work no.7 for Cybersecurity course at Technical University of
 
 ## Setup
 
-1. Clone this github directory on your device
-2. In the root folder run **-npm install**
-3. Run the main server - CORS=1 node server
+1. Clone this github directory;
+2. In the root folder run **-npm install**;
+3. Run the main server - CORS=1 node server.
 
 ## Status:
 This project is finished.
