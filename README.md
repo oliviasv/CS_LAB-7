@@ -1,6 +1,7 @@
 # Laboratory 7 
 ## Authors:
 Savițchi Olivia - FAF-181
+
 Peticî Marina - FAF -181
 ## Tasks
 - [x] Create a MongoDB database which would contain some secured sensitive data (protected
