@@ -4,6 +4,8 @@ Savițchi Olivia - FAF-181
 
 Peticî Marina - FAF -181
 
+## Table of contents
+* [Introduction](#introduction)
 ## Introduction
 
 This is laboratory work no.7 for Cybersecurity course at Technical University of Moldova which covers the topic of Database Security.
@@ -18,13 +20,13 @@ secure).
 
 ## Technologies
 
-**1. MongoDB**
-**2. React**
-**3. NodeJS**
+* MongoDB
+* React
+* NodeJS
 
 ## Setup
 
-* 1. Clone this github directory on your device
-* 2. In the root folder run **-npm install**
-* 3. Run the main server - CORS=1 node server
+1. Clone this github directory on your device
+2. In the root folder run **-npm install**
+3. Run the main server - CORS=1 node server
 
