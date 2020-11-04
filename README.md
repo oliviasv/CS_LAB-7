@@ -3,18 +3,18 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
+* [Setup](#setup)
+* [Status](#status)
 * [Contributors](#contributors)
+
 ## Introduction
 
 This is laboratory work no.7 for Cybersecurity course at Technical University of Moldova which covers the topic of Database Security.
 
 ### Tasks
-- [x] Create a MongoDB database which would contain some secured sensitive data (protected
-via 2-way encryption);
-- [x] Create an application which would display the data contained in the database (both
-common data and the decrypted sensitive data);
-- [x] Make sure that the sensitive data can only be accessed via your application (i.e. it is
-secure).
+- [x] Create a MongoDB database which would contain some secured sensitive data;
+- [x] Create an application which would display the data contained in the database;
+- [x] Make sure that the sensitive data can only be accessed via your application.
 
 ## Technologies
 
@@ -28,9 +28,8 @@ secure).
 2. In the root folder run **-npm install**
 3. Run the main server - CORS=1 node server
 
-## Screenshots
-![Database Interface](https://github.com/oliviasv/CS_LAB-7/blob/main/Screenshots/Screenshot-no-1.png)
-
+## Status:
+This project is finished.
 
 ## Contributors:
 Savițchi Olivia - FAF-181
